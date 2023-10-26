@@ -1,0 +1,8 @@
+<menu>
+    <menuitem label="Wiki">
+    <action>SystemWikiSearchList</action>
+    <icon>fas:globe fa-fw fa-fw</icon>
+  </menuitem>
+    
+    
+</menu>
